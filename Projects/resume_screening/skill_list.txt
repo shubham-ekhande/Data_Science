@@ -1,0 +1,19 @@
+python
+machine learning
+deep learning
+nlp
+sql
+data analysis
+data visualization
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+tableau
+power bi
+excel
+statistics
+aws
+azure
+docker
